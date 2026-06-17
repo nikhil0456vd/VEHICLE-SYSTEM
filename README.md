@@ -15,4 +15,4 @@ Virtual Functions
 Menu-Driven Programming
 ## OUTPUT 
 
-![OUTPUT].(/WhatsApp%20Image%202026-06-17%20at%206.42.10%20PM.jpeg).
+![output].(/WhatsApp%20Image%202026-06-17%20at%206.42.10%20PM.jpeg).
