@@ -13,4 +13,6 @@ Inheritance
 Polymorphism
 Virtual Functions
 Menu-Driven Programming
-OUTPUT:https:/WhatsApp%20Image%202026-06-17%20at%206.42.10%20PM.jpeg
+## OUTPUT 
+
+![OUTPUT].(/WhatsApp%20Image%202026-06-17%20at%206.42.10%20PM.jpeg).
